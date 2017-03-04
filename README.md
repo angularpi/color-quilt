@@ -14,4 +14,4 @@ Feeling creative? Use your Instagram pictures to make a mural.
 <strong>Code:</strong>
 The python code begins by importing the required modules. The "image" module allows to open, manipulate and create images (find reference in this <a href="http://effbot.org/imagingbook/image.htm">link</a>)
 
-Find the Github rep here: link
+Find the Github rep here: <a href="https://github.com/ospanton/color-quilt">link</a>
